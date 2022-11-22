@@ -1,7 +1,7 @@
 {
 "sites": [ {"key":"建全专属资源","name":"建全专属资源(LZ)","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","playUrl":"https://lziplayer.com/?url=","searchable":1,"quickSearch":1},
 {"key":"鱼乐资源","name":"建全鱼乐资源(切)","type":1,"api":"https://api.ylzy1.com/api.php/provide/vod/","playUrl":"https://jx.ylbfq.com/dplayer/?url=","searchable":1,"quickSearch":1},
-{"key":"建全卧龙资源","name":"建全卧龙资源","type":0,"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=","searchable":1,"quickSearch":1},
+{"key":"建全卧龙资源","name":"建全卧龙资源(切)","type":0,"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=","searchable":1,"quickSearch":1},
 {"key":"酷点资源","name":"建全酷点资源(切)","type":1,"api":"https://kudianzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速更资源","name":"建全速更资源(切)","type":1,"api":"https://sugengzy.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"建全闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
