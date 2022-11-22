@@ -23,7 +23,7 @@
 {"key":"看看资源","name":"建全看看资源(优)","type":0,"api":"https://zy.hikan.xyz/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
 {"key":"BT资源","name":"建全BT资源(优)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
 {"key":"快车资源","name":"建全快车资源(优)","type":0,"api":"https://caiji.kczyapi.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-{"key":"IKUN资源","name":"建全IKUN资源(推荐)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url=","searchable":1,"quickSearch":1},
+{"key":"IKUN资源","name":"建全IKUN资源(推荐)","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","playUrl":"https://www.ikdmjx.com/?url=","searchable":1,"quickSearch":1}
 ],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
