@@ -93,9 +93,9 @@
 "fenlei": "今日更新$/page/new/#电影首页$/list/dianying#动作片$/show-dianying---动作--------#喜剧$/show-dianying---喜剧--------#爱情$/show-dianying---爱情--------",
 "houzhui": ".html",
 
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
+"shifouercijiequ": "1",
+"jiequqian": "module-main module-page",
+"jiequhou": "module-footer",
 "jiequshuzuqian": "<a",
 "jiequshuzuhou": "alt=\"",
 "tupianqian": "data-src=\"",
